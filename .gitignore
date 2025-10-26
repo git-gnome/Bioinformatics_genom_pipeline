@@ -1,6 +1,10 @@
-# Roh- und Zwischen-Daten
-data/raw/
-data/clean/
+# --- Large data files (ignored) ---
+data/raw/*
+data/clean/*
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/clean/.gitkeep
 
 # Python environment
 bioenv/

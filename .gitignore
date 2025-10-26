@@ -1,0 +1,13 @@
+# Roh- und Zwischen-Daten
+data/raw/
+data/clean/
+
+# Python environment
+bioenv/
+
+# Temporäre Dateien
+*.log
+*.tmp
+*.swp
+__pycache__/
+*.pyc
